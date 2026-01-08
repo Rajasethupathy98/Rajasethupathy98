@@ -38,7 +38,7 @@
 
 - Deployed on Vercel
  
-🔗 Repo: [GitHub Link]
+🔗 Repo: 
 
 ---
 
