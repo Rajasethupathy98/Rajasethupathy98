@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Rajasethupathy
 
-<!--
-**Rajasethupathy98/Rajasethupathy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | Fresher  
+🌱 Currently learning Full Stack Web Development  
+🚀 Passionate about building web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman
+
+---
+
+## 📌 Projects
+### 🤖 Full Stack AI Chatbot (MERN)
+- MERN stack: React, Node.js, Express, MongoDB
+
+- JWT-based authentication & protected routes
+
+- Multi-chat system with chat history
+
+- AI text generation (Google Gemini API)
+
+- AI image generation & hosting (ImageKit)
+
+- Credit-based usage system
+
+- Stripe payment integration with webhook verification
+
+- Community gallery for shared AI images
+
+- Global state via React Context API
+
+- Responsive UI with Tailwind CSS & dark mode
+
+- Deployed on Vercel
+ 
+🔗 Repo: [GitHub Link]
+
+---
+
+## 📫 Contact Me
+- Email: rajasethupathy1998@gmail.com
